@@ -6,7 +6,7 @@ This i
 ## Features
 
 - **Code explanation**
-- **Stall Thieving in Lumbrige
+- **Stall Thieving in Lumbridge
 
 ## Getting Started
 
