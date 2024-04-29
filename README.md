@@ -1,6 +1,6 @@
 # Emma's Stall thiever Code explanation
 
-Welcome to Emma's Stall thiever code explanation! This Kotlin-based bot automates shop running tasks in Runescape3 using the BotWithUs API.
+Welcome to Emma's Stall thiever code explanation! This Kotlin-based bot automates stall thieving tasks in Runescape3 using the BotWithUs API.
 This i
 
 ## Features
